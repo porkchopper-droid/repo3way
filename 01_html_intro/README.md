@@ -9,6 +9,3 @@
 ## CSS (cascaded style sheet)
 
 ## CoPilot for GitHUB
-<html>
-
-</html>
