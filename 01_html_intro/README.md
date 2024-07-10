@@ -9,3 +9,16 @@
 ## CSS (cascaded style sheet)
 
 ## CoPilot for GitHUB
+
+## HTML structure
+- opening tag <p></p>
+- full element <p>Hello world</p>
+<hr>is void element > has no closing tag!!!
+
+## Semantic tag
+## Emmet
+## non-semantic tags
+
+## commenting in HTML
+    <!--> 
+
