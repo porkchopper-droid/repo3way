@@ -3,15 +3,39 @@
 body{
     background-color: antiquewhite;
 }
+/* classes are for everything */
+.headpop{
+    color: yellow;
+}
+.listStyle{
+    color: coral;
+    font-size: 40px;
+}
 
+/* parent-child selector */
+
+/* .shadowbar li{
+    list-style-type: none;
+} */
 h1{
     color: blueviolet;
 }
-
+/* IDs are unique */
+#headElement{
+    color:pink
+}
+#EGGS{
+    font-size: smaller;
+}
 h2{
     color: rgb(255, 0, 0);
 }
 
 p{
     color: red;
+}
+
+#paraElement{
+    color:brown;
+    font-size: large;
 }
