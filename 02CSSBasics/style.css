@@ -1,0 +1,17 @@
+
+/* targeting whole body */
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    color: red;
+}
